@@ -33,7 +33,7 @@ To summarise DUO codes and define how they are applied in the Data Commons.
 The data use permission codes articulate data use and are the core of the DUO system. They are a hierarchical set of interrelated codes (Figure 1). Only one of these codes is applied to every dataset to define the data use parameters (Table 1). When a dataset lacks any code from the data use permissions options, this is an indicator that data sharing is not allowed.  
 
 
-![Data Use Permission](image\DUO_DataUsePermission.jpg)
+![Data Use Permission](IMAGE/DUO_DataUsePermission.jpg)
 
 *Figure 1: Diagram representing the hierarchical and interrelated nature of the data use permission codes.*
 
@@ -128,12 +128,12 @@ The following process is applied to determine which DUO codes should be used to 
 
 Once these aspects have been appropriately considered, the DUO codes can be selected and applied to a dataset. Figure 3 shows an example of the application of DUO to the Australian Genomics ICCon study dataset.
 
-![Steps to assign DUO](image\DUO_AssignmentSteps.jpg)
+![Steps to assign DUO](IMAGE/DUO_AssignmentSteps.jpg)
 
 *Figure 2: Stepwise description for the application of DUO codes.*
 
 
-![DUO example](image\DUO_example.jpg)
+![DUO example](IMAGE/DUO_example.jpg)
 
 *Figure 3: Example of the application of DUO Codes using Australian Genomics’ ICCon study.*
 
