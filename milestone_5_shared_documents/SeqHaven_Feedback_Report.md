@@ -21,6 +21,10 @@ Overall, user survey feedback was positive. Participants highlighted the speed a
 
 The main challenge reported related to users identifying their own organisational resources to receive the data transfers via Globus. In particular, users sometimes needed support from their local IT teams to identify suitable transfer options.
 
+List of Australian Globus Data Transfer Nodes - https://support.aarnet.edu.au/hc/en-us/articles/14944937395471-Globus-data-transfer-nodes-in-Australia
+
+List of Globus Subscribers - https://www.globus.org/subscriptions/subscriber-list
+
 The availability of the SeqHaven support contact, who helped explain the available options and guide decision-making, was highlighted as a positive.
 
 ## Suggested Improvements
